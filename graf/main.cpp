@@ -942,7 +942,7 @@ cout<<i<<" "<<graf[251][i][2]<<" "<<graf[i][251][2]<<endl;
 
 
 //algorytm djikstry
-/*
+
 
    int b=0;
 	int n = ilosc_wierzcholkow+2;
@@ -1287,7 +1287,7 @@ if(a!=0){
 
                     }}
         krok++;
-    }*/
+    }
 
      for(int wierzcholek = 0; wierzcholek<ilosc_wierzcholkow; wierzcholek++)
     {
